@@ -257,6 +257,11 @@ string_decoder@~1.1.1:
   dependencies:
     safe-buffer "~5.1.0"
 
+thread-sleep@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/thread-sleep/-/thread-sleep-2.2.0.tgz#a4eb6b7924ed66c29c1980a89bb12ce3d1978b8c"
+  integrity sha512-C3zZbh9fL7c/+N8mFZ82+uK+dj0q6bSUORwhSe4icwd0xERndhB+ldw4JdejGC3Cbn1DRXlLJ/w859CQdvYV9w==
+
 typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"

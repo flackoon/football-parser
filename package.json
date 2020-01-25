@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "puppeteer": "^2.0.0"
+    "puppeteer": "^2.0.0",
+    "thread-sleep": "^2.2.0"
   },
   "scripts": {
     "start": "node index.js"
